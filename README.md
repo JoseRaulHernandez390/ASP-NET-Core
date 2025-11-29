@@ -1,6 +1,6 @@
 # Gestión de Tareas - Proyecto ASP.NET Core
 
-Este proyecto contiene la implementación de una **aplicación web para la gestión de tareas**, desarrollada utilizando **ASP.NET Core** durante el webinar "Uso de ASP.NET Core". El proyecto sigue el patrón de arquitectura **Modelo-Vista-Controlador (MVC)** y está diseñado para permitir a los usuarios gestionar sus tareas de manera individualizada.
+Este proyecto contiene la implementación de una **aplicación web para la gestión de tareas**, desarrollada utilizando **ASP.NET Core** durante el webinar "Uso de ASP.NET Core". El proyecto sigue el patrón de arquitectura **Modelo-Vista-Controlador (MVC)** y está diseñado para permitir a los usuarios gestionar sus tareas.
 
 ## Funcionalidades Principales
 - **Autenticación de Usuarios**: Cada usuario tiene su cuenta personalizada y puede acceder a su lista de tareas.
