@@ -7,7 +7,7 @@ Este proyecto contiene la implementación de una **aplicación web para la gesti
 - **Administración de Tareas**:
   - Crear nuevas tareas desde su cuenta.
   - Consultar y visualizar tareas previamente creadas.
-  - Modificar tareas existentes (como la descripción y prioridad).
+  - Modificar tareas existentes (como la descripción).
   - Eliminar tareas que ya no sean necesarias.
 - **Filtrado de Tareas**: Los usuarios pueden organizar sus tareas según prioridad o fecha, facilitando la gestión.
 - **Almacenamiento de Datos**: La aplicación emplea **Entity Framework Core** y una base de datos SQL Server para gestionar y guardar la información de las tareas y los usuarios.
